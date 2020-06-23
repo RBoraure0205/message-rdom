@@ -6,7 +6,7 @@ After doing a “git init” there is technically nothing there...
 ## Install
 
 ```npm
-npm install -g random-msg
+npm install -g messages-rdom
 ```
 
 # Usage
@@ -19,7 +19,7 @@ random-msg
 
 If someone wants to add or improve something, I invite you to collaborate
 directly in this repository:
-[random-msg](https://github.com/platzi/npm-random-msg)
+[messages-rdom](https://github.com/RBoraure0205/messages-rdom)
 
 # License
 
