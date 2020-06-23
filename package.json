@@ -14,7 +14,15 @@
   "author": "Ricardo Boraure <ricardoboraure@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBoraure0205/message-rdom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RBoraure0205/message-rdom/issues"
+  },
+  "homepage": "https://github.com/RBoraure0205/message-rdom#readme"
 }
